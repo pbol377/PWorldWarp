@@ -1,0 +1,11 @@
+name: PWorldWarp
+author: pbol377
+version: 1.0.0
+api:
+- 4.0.0
+
+main: pbol377\warp\Main
+
+permissions:
+   pbol.warp:
+      default: true
